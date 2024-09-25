@@ -1,0 +1,9 @@
+[submodule "submodule-test-child-1"]
+	path = submodule-test-child-1
+	url = https://github.com/nsfoundation/submodule-test-child-1
+[submodule "submodule-test-child-2"]
+	path = submodule-test-child-2
+	url = https://github.com/nsfoundation/submodule-test-child-2
+[submodule "submodule-test-child-3"]
+	path = submodule-test-child-3
+	url = https://github.com/nsfoundation/submodule-test-child-3
